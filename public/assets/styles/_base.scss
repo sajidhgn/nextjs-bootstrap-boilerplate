@@ -1,0 +1,96 @@
+  body {
+    font-family: $font-cosmic;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.2;
+    overflow-x: hidden !important;
+    background-color: $white;
+}
+
+  a.active,
+  a:focus,
+  button:focus,
+  button.active {
+      outline: none;
+  }
+
+  button,
+  a {
+      text-decoration: none;
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
+      -o-transition: all 0.5s;
+      transition: all 0.5s;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+  }
+
+  a:focus,
+  a:hover,
+  a:active {
+      outline: 0;
+      box-shadow: 0;
+  }
+
+  a:focus,
+  a:hover {
+      text-decoration: none;
+  }
+
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+      margin-bottom: 0;
+      margin-top: 0;
+  }
+
+  a,
+  button {
+      text-decoration: none;
+      -webkit-transition: all .3s;
+      -moz-transition: all .3s;
+      -ms-transition: all .3s;
+      -o-transition: all .3s;
+      transition: all .3s;
+  }
+
+  a:hover {
+      text-decoration: none;
+  }
+
+  ul {
+      margin: 0;
+      padding: 0;
+  }
+
+  ul li {
+      list-style: none;
+  }
+
+  p {
+      margin: 0;
+      line-height: 1.5;
+      font-size: 20px;
+      @include cosmic;
+  }
+
+  input:focus,
+  select:focus,
+  textarea:focus {
+      outline: none;
+  }
+
+  html{
+    scroll-behavior: smooth;
+  }
