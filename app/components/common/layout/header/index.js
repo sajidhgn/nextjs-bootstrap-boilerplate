@@ -22,10 +22,11 @@ const Header = () => {
   const headerClassName = scrolling ? "scrolled" : "";
   return (
     <section className={`header-section ${headerClassName}`}>
-      <Navbar expand="lg" className="navbar-light fixed-top">
+      <Navbar expand="lg" className="navbar-light">
         <Container fluid>
           <Navbar.Brand href="#">
-            <Logo />
+            {/* <Logo /> */}
+           Logo
           </Navbar.Brand>
           <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-lg`} />
           <Navbar.Offcanvas
@@ -47,7 +48,7 @@ const Header = () => {
                 <Nav.Link href="#action2">Road Map</Nav.Link>
                 <Nav.Link href="#action2">Contact</Nav.Link>
                 </div>
-                <Link href="#" className="btn dbtn" type="button">Buy Now</Link>
+              
               </Nav>
             </Offcanvas.Body>
           </Navbar.Offcanvas>

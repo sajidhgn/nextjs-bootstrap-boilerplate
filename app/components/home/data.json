@@ -1,38 +1,38 @@
-{
-    "banner": {
-        "heading": "ALF",
-        "subHeading": "The Howlin' Good Time Token",
-        "content": "ALF the Alien is a beloved extraterrestrial character known for his quirky humor and love for adventure. Dive into the whimsical world of the crypto universe with the ALF Coin, a meme coin that captures his playful spirit and adventurous nature, offering a fun and potentially rewarding investment journey.",
-        "image": "/assets/images/banner_img.png"
-    },
-    "social_list": {
-        "list": [
-            {
-                "icon": "/assets/images/send-icon.svg",
-                "link": "#"
-            },
-            {
-                "icon": "/assets/images/x-icon.svg",
-                "link": "#"
-            },
-            {
-                "icon": "/assets/images/git-icon.svg",
-                "link": "#"
-            },
-            {
-                "icon": "/assets/images/linkedin-icon.svg",
-                "link": "#"
-            }
-        ],
-        "contact" : "OX9ADDSE060746881CA88A1EB64"
+// {
+//     "banner": {
+//         "heading": "ALF",
+//         "subHeading": "The Howlin' Good Time Token",
+//         "content": "ALF the Alien is a beloved extraterrestrial character known for his quirky humor and love for adventure. Dive into the whimsical world of the crypto universe with the ALF Coin, a meme coin that captures his playful spirit and adventurous nature, offering a fun and potentially rewarding investment journey.",
+//         "image": "/assets/images/banner_img.png"
+//     },
+//     "social_list": {
+//         "list": [
+//             {
+//                 "icon": "/assets/images/send-icon.svg",
+//                 "link": "#"
+//             },
+//             {
+//                 "icon": "/assets/images/x-icon.svg",
+//                 "link": "#"
+//             },
+//             {
+//                 "icon": "/assets/images/git-icon.svg",
+//                 "link": "#"
+//             },
+//             {
+//                 "icon": "/assets/images/linkedin-icon.svg",
+//                 "link": "#"
+//             }
+//         ],
+//         "contact" : "OX9ADDSE060746881CA88A1EB64"
 
-    },
-    "about_us": {
-        "heading": "About",
-        "content": "<p>The ALF Coin is a distinctive cryptocurrency inspired by the iconic extraterrestrial, ALF, from the beloved TV show. Our goal is to blend the whimsical world of nostalgic entertainment with the innovative landscape of cryptocurrency, creating a lively and engaging community where humor meets finance.</p><p>By investing in the ALF Coin, you're not just entering the crypto market, but also joining a community of investors who appreciate the fun and adventure of blockchain technology.</p><p>Join us on this thrilling journey as we break new ground in finance and create a future where financial freedom is an exciting adventure for everyone.</p>",
-        "buttonText": "Buy Now",
-        "buttonLink": "/",
-        "aboutImage": "/assets/images/about_img.png"
-    }
+//     },
+//     "about_us": {
+//         "heading": "About",
+//         "content": "<p>The ALF Coin is a distinctive cryptocurrency inspired by the iconic extraterrestrial, ALF, from the beloved TV show. Our goal is to blend the whimsical world of nostalgic entertainment with the innovative landscape of cryptocurrency, creating a lively and engaging community where humor meets finance.</p><p>By investing in the ALF Coin, you're not just entering the crypto market, but also joining a community of investors who appreciate the fun and adventure of blockchain technology.</p><p>Join us on this thrilling journey as we break new ground in finance and create a future where financial freedom is an exciting adventure for everyone.</p>",
+//         "buttonText": "Buy Now",
+//         "buttonLink": "/",
+//         "aboutImage": "/assets/images/about_img.png"
+//     }
 
-}
+// }
